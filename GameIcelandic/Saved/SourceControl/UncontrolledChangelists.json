@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Erniu/Documents/Unreal Projects/GameIcelandic/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/UI/Mainmenu.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/UI/Controls.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/UI/WP_Stamina.uasset",
 				"C:/icelandicONG/GameIcelandic/Content/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.umap",
 				"C:/icelandicONG/GameIcelandic/Content/Low_Poly_Viking_World/Maps/Map_01_Day_BuiltData.uasset",
 				"C:/icelandicONG/GameIcelandic/Content/Low_Poly_Viking_World/Maps/Map_01_Day.umap",
@@ -14,8 +19,7 @@
 				"C:/icelandicONG/GameIcelandic/Content/UI/yess.uasset",
 				"C:/icelandicONG/GameIcelandic/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/icelandicONG/GameIcelandic/Content/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_02.uasset",
-				"C:/icelandicONG/GameIcelandic/Content/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_03.uasset",
-				"C:/Users/Erniu/Documents/Unreal Projects/GameIcelandic/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/icelandicONG/GameIcelandic/Content/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_03.uasset"
 			]
 		}
 	]
