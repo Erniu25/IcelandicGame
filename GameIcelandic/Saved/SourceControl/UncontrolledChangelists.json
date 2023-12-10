@@ -5,15 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Erniu/Documents/Unreal Projects/GameIcelandic/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"E:/IcelandicGame/GameIcelandic/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"E:/IcelandicGame/GameIcelandic/Content/UI/Mainmenu.uasset",
-				"E:/IcelandicGame/GameIcelandic/Content/UI/Controls.uasset",
-				"E:/IcelandicGame/GameIcelandic/Content/Dialogue/BPI_Dialogue.uasset",
-				"E:/IcelandicGame/GameIcelandic/Content/Dialogue/BP_NPC.uasset",
-				"E:/IcelandicGame/GameIcelandic/Content/UI/WB_Dialogue.uasset",
-				"E:/IcelandicGame/GameIcelandic/Content/Low_Poly_Viking_World/Maps/Map_01_Day.umap",
-				"E:/IcelandicGame/GameIcelandic/Content/UI/WP_Stamina.uasset",
 				"C:/icelandicONG/GameIcelandic/Content/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.umap",
 				"C:/icelandicONG/GameIcelandic/Content/Low_Poly_Viking_World/Maps/Map_01_Day_BuiltData.uasset",
 				"C:/icelandicONG/GameIcelandic/Content/Low_Poly_Viking_World/Maps/Map_01_Day.umap",
@@ -23,7 +14,24 @@
 				"C:/icelandicONG/GameIcelandic/Content/UI/yess.uasset",
 				"C:/icelandicONG/GameIcelandic/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/icelandicONG/GameIcelandic/Content/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_02.uasset",
-				"C:/icelandicONG/GameIcelandic/Content/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_03.uasset"
+				"C:/icelandicONG/GameIcelandic/Content/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_03.uasset",
+				"C:/icelandicONG/GameIcelandic/Content/UI/E_interact.uasset",
+				"C:/icelandicONG/GameIcelandic/Content/UI/Interact.uasset",
+				"C:/icelandicONG/GameIcelandic/Content/UI/EgillInteraction.uasset",
+				"C:/icelandicONG/GameIcelandic/Content/Dialogue/BP_NPC1.uasset",
+				"C:/icelandicONG/GameIcelandic/Content/Dialogue/BP_NPC_Child.uasset",
+				"C:/icelandicONG/GameIcelandic/Content/Low_Poly_Viking_World/Maps/idk.umap",
+				"C:/icelandicONG/GameIcelandic/Content/Dialogue/BP_NPC.uasset",
+				"C:/icelandicONG/GameIcelandic/Content/UI/WB_Dialogue.uasset",
+				"C:/Users/Erniu/Documents/Unreal Projects/GameIcelandic/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/UI/Mainmenu.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/UI/Controls.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/Dialogue/BPI_Dialogue.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/Dialogue/BP_NPC.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/UI/WB_Dialogue.uasset",
+				"E:/IcelandicGame/GameIcelandic/Content/Low_Poly_Viking_World/Maps/Map_01_Day.umap",
+				"E:/IcelandicGame/GameIcelandic/Content/UI/WP_Stamina.uasset"
 			]
 		}
 	]
